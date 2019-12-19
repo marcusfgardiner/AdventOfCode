@@ -1,0 +1,6 @@
+C:\Work\PizzaAndProgramming\AdventOfCode\Day1\AdventOfCodeConsoleApp\Day2\bin\Debug\Day2.exe
+C:\Work\PizzaAndProgramming\AdventOfCode\Day1\AdventOfCodeConsoleApp\Day2\bin\Debug\Day2.pdb
+C:\Work\PizzaAndProgramming\AdventOfCode\Day1\AdventOfCodeConsoleApp\Day2\obj\Debug\Day2.csprojAssemblyReference.cache
+C:\Work\PizzaAndProgramming\AdventOfCode\Day1\AdventOfCodeConsoleApp\Day2\obj\Debug\Day2.csproj.CoreCompileInputs.cache
+C:\Work\PizzaAndProgramming\AdventOfCode\Day1\AdventOfCodeConsoleApp\Day2\obj\Debug\Day2.exe
+C:\Work\PizzaAndProgramming\AdventOfCode\Day1\AdventOfCodeConsoleApp\Day2\obj\Debug\Day2.pdb
